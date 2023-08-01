@@ -1,4 +1,4 @@
-# Welcome to Roerich
+# Welcome to Roerich Package
 
 [![PyPI version](https://badge.fury.io/py/roerich.svg)](https://badge.fury.io/py/roerich)
 [![Documentation](https://img.shields.io/badge/documentation-yes-green.svg)](https://hse-lambda.github.io/roerich)
